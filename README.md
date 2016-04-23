@@ -9,12 +9,12 @@
 主要会集中在RNA-seq和SNP-calling方向的包，以及ID转换基础包。
 
 更新列表如下：
-bioconductor包名称 | 教程链接
----|---
-GEOquery | [用GEOquery从GEO数据库下载数据](https://github.com/bioconductor-china/software/blob/master/GEOquery.html)
-limma |  [用limma对芯片表达数据做差异分析](https://github.com/bioconductor-china/software/blob/master/limma.html)
-limma(voom) | [用limma包的voom方法来做RNA-seq 差异分析](https://github.com/bioconductor-china/software/blob/master/limma_voom.html)
-DESeq2 | [DESeq2包来对RNA-seq数据进行差异分析](https://github.com/bioconductor-china/software/blob/master/DESeq2.html)
-待续 | [待续]()
 
+    bioconductor包名称 | 教程链接
+    ---|---
+    GEOquery | [用GEOquery从GEO数据库下载数据](https://github.com/bioconductor-china/software/blob/master/GEOquery.html)
+    limma |  [用limma对芯片表达数据做差异分析](https://github.com/bioconductor-china/software/blob/master/limma.html)
+    limma(voom) | [用limma包的voom方法来做RNA-seq 差异分析](https://github.com/bioconductor-china/software/blob/master/limma_voom.html)
+    DESeq2 | [DESeq2包来对RNA-seq数据进行差异分析](https://github.com/bioconductor-china/software/blob/master/DESeq2.html)
+    待续 | [待续]()
 
